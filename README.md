@@ -18,7 +18,6 @@ Hi, I'm **Maria Ragheb**, a passionate and detail-oriented **Software Developer 
 - Java Programming & Cucumber with Java (TestAutomationU)
 - REST API Testing with Rest Assured
 - Google Cybersecurity Certificate *(in progress)*
-- CS50 by Harvard *(in progress)*
 
 ### 🧪 Teaching Project:
 **Coursera Guided Project**:  
