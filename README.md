@@ -46,7 +46,9 @@ It’s about building systems that make it easier for everyone else to write cod
 Less friction. Faster feedback. Better software.
 
 ⸻
+
 Languages: Arabic Native -  English C1 - German B2
+
 Always learning, always automating. 🚀
 ### 🌐 Let's Connect:
 - [GitHub](https://github.com/MariaRomani)  
